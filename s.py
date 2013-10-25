@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-__author__ = 'Administrator'
+__author__ = 'luoguoling'
 #socket_client.py
 import socket
 import time
