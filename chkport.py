@@ -16,7 +16,7 @@ def chkport(address,port):
 		print "can not conect"
 chkport(options.address,options.port)
 
-#参数的一般使用
+#参数的一般使用1
 #/usr/bin/python
 import optparse
 from optparse import OptionParser
