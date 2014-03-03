@@ -1,4 +1,4 @@
-__author__ = 'Administrator'
+__author__ = 'luoguoling'
 from SocketServer import TCPServer,ForkingMixIn,StreamRequestHandler
 class Server(ForkingMixIn,TCPServer):
     pass
