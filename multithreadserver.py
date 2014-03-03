@@ -1,4 +1,4 @@
-__author__ = 'Administrator'
+__author__ = 'luoguoling'
 import time
 from SocketServer import TCPServer,ThreadingMixIn,StreamRequestHandler
 class Server(ThreadingMixIn,TCPServer):
