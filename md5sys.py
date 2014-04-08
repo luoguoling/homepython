@@ -1,4 +1,4 @@
-#author:luoguoling
+#author:luoguoling1
 import os,sys,filecmp,smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
