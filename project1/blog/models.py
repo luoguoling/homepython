@@ -1,4 +1,5 @@
 #coding=utf-8
+#author:luoguoling
 from django.db import models
 from django.contrib import admin
 class Blog(models.Model):
