@@ -1,4 +1,4 @@
-__author__ = 'luoguoling11'
+__author__ = 'luoguoling1'
 import os
 import logging
 def log1():
